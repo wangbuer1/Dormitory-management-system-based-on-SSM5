@@ -1,8 +1,0 @@
-[{    
-    "id":1,    
-    "text":"个人中心",
-    "state":"closed",       
-    "children":[{
-    	"text":"个人信息"
-    }]
-}] 
